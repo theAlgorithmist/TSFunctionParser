@@ -1,0 +1,27 @@
+{
+  "name": "TSMTFunctionParser",
+  "version": "1.0.0",
+  "description": "Typescript Math Toolkit Function Parser",
+  "main": "index.html",
+  "keywords": [
+    "Typescript",
+    "Function",
+    "Parsing",
+    "Programming"
+  ],
+  "author": "Jim Armstrong (www.algorithmist.net)",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@types/core-js": "^0.9.34",
+    "@types/jasmine": "^2.5.35",
+    "gulp-server-livereload": "^1.7.1",
+    "gulp-sourcemaps": "1.6.0",
+    "gulp-tsc": "^1.2.4",
+    "gulp-typescript": "2.12.0",
+    "typescript": "2.0.0"
+  },
+  "dependencies": {
+    "jasmine-core": "2.4.1",
+    "systemjs": "0.19.24"
+  }
+}
