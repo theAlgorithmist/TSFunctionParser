@@ -4,6 +4,7 @@ In early 2001, I came across a blog post that discussed a function parser, i.e. 
 
 I decided to release the alpha version of the Typescript code both to serve as another example of the practical use of Typescript and to encourage thought on better ways to solve the problem.  String processing is not my strong suit, so I believe there are much better ways to author this code.  If you would like to make a contribution to the ongoing development of the Typescript Math Toolkit, then here is one opportunity.
 
+NOTE: This repo is obsoleted; the function parser has been upgraded [and is now part of the AMYR library](https://github.com/theAlgorithmist/AMYR).
 
 Author:  Jim Armstrong - [The Algorithmist]
 
